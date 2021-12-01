@@ -6,12 +6,12 @@
 - [X] Deve ser possível buscar o extrato bancário do cliente
 - [X] Deve ser possível realizar um depósito
 - [X] Deve ser possível um saque
-- [] Deve ser possível buscar o extrato bancário do cliente por data
+- [X] Deve ser possível buscar o extrato bancário do cliente por data
 - [] Deve ser possível atualizar dados da conta do cliente
 - [] Deve ser possível obter dados da conta do cliente
 - [] Deve ser possível deletar uma conta
 
-## Regrasa de negócio 
+## Regras de negócio 
 
 - [X] Não deve ser possível cadastrar uma conta com CPF já existente
 - [X] Não deve ser possível buscar um extrato em uma conta não existente
